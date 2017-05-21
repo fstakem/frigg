@@ -1,0 +1,13 @@
+# What needs to be done
+
+    1.  Redo restful routes with new names
+    2.  Create routes similar to old site
+    3.  Access db from routes
+    4.  Create fixtures for test data
+    5.  Create fixtures for my data
+    6.  Create basic pages
+    7.  Redo pages with polymer
+    8.  Add css to pages
+    9.  Setup server to serve webapp
+    10. Vuln scan webapp
+    11. Change dns to work with webapp
