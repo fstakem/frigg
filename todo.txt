@@ -11,3 +11,4 @@
     9.  Setup server to serve webapp
     10. Vuln scan webapp
     11. Change dns to work with webapp
+    12. Create ER diagram of the app
